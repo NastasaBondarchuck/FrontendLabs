@@ -1,0 +1,16 @@
+#first_line{
+    background-color: #868f8f;
+    color: #F5DEC4;
+}
+#first_line :hover{
+    background-color: #F5DEC4;
+    color: #868f8f;
+}
+#second_line{
+    background-color: #f5f586;
+    color: #882ADB;
+}
+#second_line :hover{
+    background-color: #882ADB;
+    color: #f5f586;
+}
