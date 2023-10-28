@@ -9,7 +9,6 @@ body{
 }
 #second_block{
     width: 100%;
-    height: auto;
     background-color: #fac0f6;
 }
 #third_block{
@@ -22,6 +21,9 @@ body{
     float: right;
     background-color: #93b071;
 }
-#cat1, #cat2{
+#cat1{
+    width: 20%;
+}
+#cat2{
     width: 35%;
 }

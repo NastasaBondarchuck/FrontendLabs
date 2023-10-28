@@ -11,7 +11,6 @@ body{
 }
 #second_block{
     width: 100%;
-    height: auto;
     background-color: #fac0f6;
     display: flex;
     justify-content: center;
@@ -22,16 +21,17 @@ body{
 }
 #third_block{
     width: 70%;
-    float: left;
     background-color: #bce68b;
     display: flex;
     justify-content: center;
 }
 #fourth_block{
     width: 30%;
-    float: right;
     background-color: #93b071;
 }
-#cat1, #cat2{
-    width: 35%;
+#cat1{
+    width: 20vh;
+}
+#cat2{
+    width: 35vh;
 }
