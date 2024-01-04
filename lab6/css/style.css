@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#download {
+    font-size: 25px;
+    padding: 20px;
+    background-color: khaki;
+}
+#people {
+    background-color: antiquewhite;
+    border: black 2px solid;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.person {
+    display: flex;
+    flex-direction: column;
+    background-color: bisque;
+    font-size: 25px;
+    padding: 10px;
+    margin: 30px;
+    width: 300px;
+}
+.person img {
+    width: 100px;
+}
